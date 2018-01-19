@@ -1,5 +1,5 @@
 """
-This is a simple example to insert/append values from Google Spreadsheet Using SERVICE ACCOUNT
+This is a simple example to insert/append values to Google Spreadsheet Using SERVICE ACCOUNT
 Uses API v4 with google-auth, requests libraries
 
 Note: Worked with JSON SERVICE ACCOUNT FILE NOT p12
